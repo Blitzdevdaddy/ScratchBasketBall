@@ -1,4 +1,4 @@
-# ScratchBasketBall
+# ScratchBasketBall 🏀
 A simple basketball game made in Scratch
 
 You need to hit the spacebar when the hitbox reaches the green region at the bottom left corner
